@@ -32,11 +32,11 @@ This project is a modern, interactive hero section built using HTML, CSS, and Ja
 ## 🚀 How to Run
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/hero-section-animation.git
+   git clone https://github.com/PRIYANSHU700/Itzfizz-assessment.git
    ```
 2. Navigate to the project folder:
    ```sh
-   cd hero-section-animation
+   cd Itzfizz-assessment
    ```
 3. Open `index.html` in a browser.
 
